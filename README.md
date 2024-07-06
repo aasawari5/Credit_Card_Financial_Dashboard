@@ -1,6 +1,6 @@
-## Credit_Card_Financial_Dashboard using Power BI
+# Credit_Card_Financial_Dashboard using Power BI
 
-# Project Insights
+## Project Insights
 
 - WoW change: 
 • Revenue increased by 28.8%, 
